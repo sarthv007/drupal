@@ -1,5 +1,5 @@
 <?php 
-//this is a test 
+//this files checks the configuration changes 
 phpinfo();
 ?>
 
